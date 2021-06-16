@@ -20,7 +20,7 @@ On Arch Linux:
 pacman -S nodejs npm
 ```
 
-Then, to install extensions, run:
+Then, to install coc extensions, run:
 ```
 :CocInstall coc-python coc-json coc-vimlsp coc-snippets
 ```
