@@ -14,7 +14,13 @@ Then run ```:PlugInstall``` to install plugins
 
 ## Coc extensions
 
-Run:
+First, you have to install ```nodejs``` and ```npm```.
+On Arch Linux:
+```
+pacman -S nodejs npm
+```
+
+Then, to install extensions, run:
 ```
 :CocInstall coc-python coc-json coc-vimlsp coc-snippets
 ```
