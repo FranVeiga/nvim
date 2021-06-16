@@ -22,4 +22,4 @@ set showcmd
 set hidden
 set colorcolumn=81
 set sb
-
+set ve=onemore
